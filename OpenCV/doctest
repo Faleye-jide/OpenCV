@@ -1,0 +1,8 @@
+// Data Science workflow
+digraph {
+	A [label="Understanding the business problem"]
+	B [label="Data Collection"]
+	C [label="Data Preprocessing"]
+	A -> B
+	B -> C
+}
